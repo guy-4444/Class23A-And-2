@@ -37,7 +37,7 @@ public class Activity_Second extends AppCompatActivity {
                         .setLiked(false)
                         .setViews(12_600_000)
                 .addTag("baby")
-                .addTag("children")
+                .addTag("kids")
                 .addTag("animation")
         );
 

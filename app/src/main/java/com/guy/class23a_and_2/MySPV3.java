@@ -22,6 +22,7 @@ public class MySPV3 {
     }
 
     private MySPV3(Context context) {
+
         preferences = context.getSharedPreferences(DB_FILE, Context.MODE_PRIVATE);
     }
 
